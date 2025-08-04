@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Node.js dependencies
+node_modules/
+build/
+
+# IDE and editor folders
+.vscode/
+.idea/
